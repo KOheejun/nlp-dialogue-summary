@@ -1,0 +1,29 @@
+# 제출 CSV
+submit_*.csv
+submission*.csv
+
+# 대회 데이터
+data/
+
+# 모델 가중치
+*.pth
+*.pt
+*.ckpt
+*.safetensors
+
+# Python 캐시
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# 가상환경
+.venv/
+venv/
+
+# 발표 자료
+*.pptx
+*.hwp
+
+# OS
+.DS_Store
+Thumbs.db
